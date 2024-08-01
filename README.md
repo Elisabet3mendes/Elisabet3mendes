@@ -1,16 +1,15 @@
-## Hi there 👋
+## Seja bem vindo 🤎
 
-<!--
-**Elisabet3mendes/Elisabet3mendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Elisabete Mendes 
+-estou estudando com o Alura 📖
+-estou me desenvolvendo com o Java script🩹
+-estou usando esse lugar para compartilhar para vocês alguns dos meus projetos🫑🫀
+-sou uma aluna do ensino médio😧
+-amo teatro🤲❤️‍🩹
 
-Here are some ideas to get you started:
+###fale comigo!🗂️
+00001106220523sp@al.educacao.sp.gov.br
+![](https://media1.tenor.com/m/ezakVYwMX9AAAAAC/pvssytalk-onikasciit.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
